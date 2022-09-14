@@ -10,8 +10,8 @@ Time spent: **8** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can enter the name of the person in the text field.
-* [ ] Click on the create button to create a birthday greeting.
+* [x] User can enter the name of the person in the text field.
+* [x] Click on the create button to create a birthday greeting.
 
 
 ## Video Walkthrough
