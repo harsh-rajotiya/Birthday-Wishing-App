@@ -18,4 +18,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/harsh-rajotiya/Birthday-Wishing-App/blob/main/birthdaywishgif.gif' width = '250' height = '500' />
+<img src='https://github.com/harsh-rajotiya/Birthday-Wishing-App/blob/main/birthdaywishh.gif' width = '250' height = '500' />
